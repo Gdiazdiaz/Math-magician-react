@@ -6,12 +6,20 @@ body {
 .calculator-container {
   display: flex;
   flex-direction: column;
+  width: 260px;
 }
 
 .calc-input {
   background-color: #5f5f5f;
   padding: 10px 5px;
+  color: #fff;
+  text-align: right;
 }
+
+.calc-input::placeholder {
+    color: #fff;
+    text-align: end;
+  }
 
 .line {
   display: flex;
@@ -19,13 +27,13 @@ body {
 }
 
 .key {
-  width: 25%;
+  width: 65px;
   padding: 10px 0;
   border: solid 1px #d3d3d3;
 }
 
 .key-exception {
-  width: 50%;
+  width: 130px;
   border: solid 1px #d3d3d3;
 }
 
