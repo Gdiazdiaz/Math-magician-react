@@ -17,9 +17,9 @@ body {
 }
 
 .calc-input::placeholder {
-    color: #fff;
-    text-align: end;
-  }
+  color: #fff;
+  text-align: end;
+}
 
 .line {
   display: flex;
@@ -38,5 +38,5 @@ body {
 }
 
 .color {
-  background-color: rgb(250, 94, 37);
+  background-color: rgb(240, 104, 55);
 }
