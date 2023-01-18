@@ -1,0 +1,13 @@
+.home-container{
+    padding-left: 20px;
+    margin-top: 80px;
+}
+
+.home-title{
+    font-family: 'Playfair Display';
+    color: #d05663;
+}
+
+.home-text{
+    font-family: 'Poppins';
+}

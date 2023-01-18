@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css?family=Poppins|Playfair+Display");
+.navbar-container{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 20px;
+    box-shadow: 10px 10px 10px #7e7d7d;
+}
+
+.header-title{
+    font-family: 'Poppins';
+    color: #2a403d;
+    padding: 0;
+    margin: 0;
+}
+
+.items-container{
+    display: flex;
+    list-style: none;
+    gap: 20px;
+}
+
+.item{
+    color: #000;
+    text-decoration: none;
+    border-left: solid 1px #000;
+    padding: 10px 20px;
+    font-family: 'Poppins';
+    color: #748b6f;
+}
+
+.item:hover{
+    color:#2a403d;
+}
