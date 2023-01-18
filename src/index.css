@@ -5,11 +5,12 @@ body {
   margin: 0;
 }
 
-.main-container{
+.main-container {
   display: flex;
-  justify-content:space-between;
+  justify-content: space-between;
   margin-top: 80px;
 }
+
 .calculator-container {
   display: flex;
   flex-direction: column;
@@ -21,9 +22,9 @@ body {
   padding: 50px 60px;
 }
 
-.calculator-title{
+.calculator-title {
   margin-left: 20px;
-  font-family: 'Playfair Display';
+  font-family: 'Playfair Display', sans-serif;
   color: #d05663;
 }
 
