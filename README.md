@@ -60,7 +60,7 @@
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 
-- [Live Demo Link tbd]()
+- [Live Demo](https://math-magician-zczk.onrender.com)
 - [Description video tbd]()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
